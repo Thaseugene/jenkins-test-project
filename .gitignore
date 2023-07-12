@@ -33,7 +33,6 @@ build/
 .vscode/
 /mvnw
 /mvnw.cmd
-/pom.xml
 /target/
 /HELP.md
 /.mvn/
